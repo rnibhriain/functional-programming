@@ -1,4 +1,4 @@
-# functional-programming
+# Functional Programming
 
 All assignments for module: CSU34016
 - Intro Assignments: Exercise00
