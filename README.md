@@ -1,5 +1,7 @@
 # Functional Programming
 
+2021 - 2022
+
 All assignments for module: CSU34016
 - Intro Assignments: Exercise00
 - Assignment 1: Exercise01
